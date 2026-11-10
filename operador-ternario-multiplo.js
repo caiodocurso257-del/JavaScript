@@ -6,6 +6,7 @@ let statusReserva =
     ? "reserva confirmada"
     : quartoDisponiveis > 0
       ? "Aguardando confirmação"
-      : "semquartos disponíveis";
+           N                                                                
+            : "semquartos disponíveis";
 
 console.log(statusReserva);
